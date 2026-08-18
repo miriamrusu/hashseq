@@ -3,9 +3,9 @@ description: Go from sign-up to your first deploy in under five minutes.
 icon: bolt
 ---
 
-# Quickstart
+# Install instructions
 
-This quickstart gets you to your first deploy as fast as possible. We'll skip most of the configuration — you can refine things later once you have something running.
+installation
 
 {% hint style="success" %}
 **Estimated time: 5 minutes.** All you need is an account and a project to deploy.
@@ -75,15 +75,3 @@ First builds typically take 1–3 minutes. Subsequent builds are faster because 
 ## What's next?
 
 You've shipped something — now make it yours.
-
-{% content-ref url="../examples/custom-domains.md" %}
-[custom-domains.md](../examples/custom-domains.md)
-{% endcontent-ref %}
-
-{% content-ref url="../core-concepts/permissions.md" %}
-[permissions.md](../core-concepts/permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="../examples/automations.md" %}
-[automations.md](../examples/automations.md)
-{% endcontent-ref %}

@@ -2,12 +2,12 @@
 
 ## Introduction
 
-* [Page 1](README.md)
+* [Hashseq](README.md)
 
 ## Getting Started
 
 * [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
+* [Install instructions](getting-started/install-instructions.md)
 * [Your first project](getting-started/your-first-project.md)
 
 ## Core concepts
