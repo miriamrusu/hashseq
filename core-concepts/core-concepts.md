@@ -5,7 +5,18 @@ icon: book
 # Core concepts
 
 * Operations
+  * remove
+  * move
+  * insert
+    * at
+    * payload (chosen by the system not the user)
 * Anchors
+* References
+* Resources
+* Conflict resolution
+
+
+
 * Elements
 * Gaps
 * Liveness
