@@ -12,6 +12,9 @@ icon: book
     * payload (chosen by the system not the user)
 * Anchors
 * References
+  * observed frontier
+  * honest construction
+  * named references
 * Resources
 * Conflict resolution
 
