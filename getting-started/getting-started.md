@@ -1,12 +1,17 @@
 ---
-description: Set up your account and ship your first project in minutes.
 icon: rocket-launch
 ---
 
 # Getting started
 
-* what is it
-* how it works
+**HashSeq is a sequence CRDT designed to represent and modify a sequence in a distributed environment.**
+
+HashSeq gives operations a way to identify specific items and describe relationships between them. This allows multiple participants to make changes independently and later merge those changes into a consistent sequence.
+
+At a high level, HashSeq represents the sequence as a graph of relationships between items. The graph records information about where items belong and how operations affect those relationships. HashSeq can then use that information to determine the resulting sequence.
+
+
+
 * key concepts
 * architecture&#x20;
 
